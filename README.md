@@ -1,13 +1,13 @@
 # 🌀 Palindrome Checker
 
-Welcome to the **Palindrome Checker**! This little program helps you determine if a word or phrase is a palindrome. 🥳
+Welcome to the **Palindrome Checker**! This little program helps you determine if a word or phrase is a palindrome. ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 ## 📋 How It Works
 
 1. **Input**: Enter any word or phrase.
 2. **Processing**: The program cleans the input by removing non-alphanumeric characters and converting it to lowercase.
 3. **Check**: It then checks if the cleaned string reads the same forwards and backwards.
-4. **Output**: You'll get a cute message telling you if your input is a palindrome or not! 😊
+4. **Output**: You'll get a cute message telling you if your input is a palindrome or not! ◝(ᵔᗜᵔ)◜
 
 ## 🛠️ How to Use
 
@@ -49,5 +49,4 @@ Welcome to the **Palindrome Checker**! This little program helps you determine i
 
 ## 🧑‍💻 Contributing
 
-Feel free to fork this repository and make your own improvements! Pull requests are welcome. 💖
-y checking palindromes! ✨
+Feel free to fork this repository and make your own improvements! Pull requests are welcome. (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
